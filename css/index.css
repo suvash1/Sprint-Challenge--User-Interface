@@ -96,6 +96,11 @@ p {
     border-bottom: 1px dashed black;
 }
 
+.top-content-index, .bottom-content{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
@@ -189,4 +194,13 @@ header {
 
 button{
     width:100px;
+    height:30px;
+    background-color:white;
+    border-radius: 25px;
+    border:2px solid black;
+
+}
+
+p{
+    padding-bottom:20px;
 }
